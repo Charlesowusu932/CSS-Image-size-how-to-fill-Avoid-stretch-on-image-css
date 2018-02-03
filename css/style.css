@@ -22,3 +22,10 @@ body {
     object-fit: cover;
     object-position: center center;
 }
+
+.paddingtopanddowon {
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
